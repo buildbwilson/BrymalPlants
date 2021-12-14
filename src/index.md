@@ -1,15 +1,13 @@
 ---
 layout: home
-title: What we offera at Brymal Plants?
-metaDesc: sadasdasda
+title: Welcome to Brymal Plants 
+metaDesc: Brymal Plants LLC, Biochem.
 postsHeading: Recently...
-archiveButtonText: See all posts
+archiveButtonText: View all posts
 socialImage: ""
 ---
-sweet text here flexing brymal plants\
-\
-link to lziard and plant
+Brymal Plants L.L.C 
 
+Cutting edge biological research focusing on in-vitro conservation of threatened species.
 
-
-!OOOO
+Hosting cost-free educational materials
