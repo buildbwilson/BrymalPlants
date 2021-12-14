@@ -1,6 +1,6 @@
 {
   "showThemeCredit": false,
-  "name": "Brymal Plants",
+  "name": "Brymal Plants 🌻",
   "shortDesc": "Brymal Plants L.L.C",
   "url": "https://brymalplants.netlify.app",
   "authorEmail": "brymalplants@pm.me",
@@ -9,5 +9,5 @@
   "enableThirdPartyComments": true,
   "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
   "faviconPath": "/images/favicon.png",
-  "maxPostsPerPage": 10
+  "maxPostsPerPage": 3
 }
