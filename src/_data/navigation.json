@@ -1,17 +1,17 @@
 {
   "items": [
     {
-      "text": "Home",
+      "text": "Home 🏡",
       "url": "/",
       "external": false
     },
     {
-      "text": "Content",
+      "text": "Content 📸",
       "url": "/archive",
       "external": false
     },
     {
-      "text": "Contact Page",
+      "text": "Contact Page 📫",
       "url": "/contact",
       "external": false
     }
