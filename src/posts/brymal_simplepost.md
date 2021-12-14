@@ -1,30 +1,22 @@
 ---
 title: Website Launch Post!
-date: '2021-12-13'
+date: '2021-12-14'
 tags:
   - webdev-content
   - simple-post
   - blog
 ---
-A simple post to demonstrate how a normal blog post looks on Hylia. Content is all set in the “Body” field as markdown and Eleventy transforms it into a proper HTML post. You can also edit the markdown file directly if you prefer not to use the CMS.
+This initial post will mark the launch of our website. Nothing else.
 
 
-> Website has officially launched! Here is a sample quote talking about this importance.
+>  Enjoy the content weirdos. -Bryce
 
-A list of stuff:
+Website Dev. Goals:
 
-- How do lists work?
-- Am i really able to just use the simple line '-' ?
-- I will make a bullet after this one to confirm
-- This hopefully shows.....
-
-How about an ordered list of stuff: Does this text look different?
-
-1. Get the bag
-2. Populate the world with quality cheap plants
-3. Spend all my money making nature better?
-4.
-5. Profit?????
-
-
-Hopefully, this works with a quick save lmao.
+1. Finalize design theme
+2. Organize content
+3. Build 'About us' page.
+4. Build 'Contact us' page.
+5. Build 'Buisness Opportunities' page.
+6. Secure site
+7. Profit ? ?
