@@ -6,9 +6,14 @@
       "external": false
     },
     {
-      "text": "Content 📸",
+      "text": "Content  📸",
       "url": "/archive",
       "external": false
+    },
+    {
+      "text": "Shop 🛒",
+      "url": "https://www.etsy.com/shop/BrymalPlants",
+      "external": true
     },
     {
       "text": "Contact Page 📫",
